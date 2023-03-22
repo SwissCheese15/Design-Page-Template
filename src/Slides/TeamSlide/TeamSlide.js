@@ -5,7 +5,6 @@ import { useState } from "react";
 function TeamSlide() {
 
     const [currentTeam, setCurrentTeam] = useState(1)
-    const [popUp, setPopUp] = useState(true)
 
     const handlePoint1Click = () => {
         setCurrentTeam(1)
@@ -31,24 +30,6 @@ function TeamSlide() {
                                 <h5>&#91; {d.job_title} &#93;</h5>
                             </div>
                             <img className="teamImage" src={d.profile_picture}></img>
-                            <div className="PopUpDiv">
-                            {popUp && (
-        <div className="modal-overlay">
-
-          <div className="modal-container">
-            <img 
-              src={d.profile_picture}
-              alt="profile portrait"
-            />
-            <h3>{d.first_name} {d.last_name}</h3>
-            <span>[{d.job_title}]</span>
-            <p>{d.description}</p>
-            <button>X</button>
-          </div>
-          
-        </div>
-      )}
-                            </div>
                         </div>
                     ))}
             </div>
