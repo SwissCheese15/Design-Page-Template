@@ -1,4 +1,4 @@
-## Design-Challenge
+## Design-Challenge 🎨
 Recreating a Wordpress template in React.
 
 ### Visit
