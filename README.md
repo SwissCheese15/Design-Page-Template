@@ -1,10 +1,16 @@
-# Design-Challenge
+## Design-Challenge
+Recreating a Wordpress template in React.
 
-Recreating a template for a take-home tech challenge
+### Visit
+https://design-page-template.vercel.app
 
-https://m6dd8l-3000.preview.csb.app
+https://user-images.githubusercontent.com/110164826/226904126-75c81fb3-c095-42d3-ad0e-269de5300868.mov
 
-## Mockup / Goal
+### Inspiration
 
-![code-challenge-mockup](https://user-images.githubusercontent.com/110164826/206954593-b01737b3-0e85-4c33-87cd-bb7cac988ec7.png)
+https://themeforest.net/item/theratio-architecture-interior-design-elementor/27004841?gclid=EAIaIQobChMIhZaL38Dv_QIVDwSLCh1EpgzrEAAYASAAEgLb2fD_BwE
+
+
+
+
 
