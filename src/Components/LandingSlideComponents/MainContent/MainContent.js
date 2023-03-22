@@ -12,7 +12,7 @@ function MainContent() {
 
     return (
         <>
-                <img src="/images/logo.svg" id="logo"></img>
+                <img src="/images/logo.svg" alt="company logo" id="logo"></img>
                     {currentPage === 1 ? <Studio/> : "" }
                     {currentPage === 2 ? <Design/> : "" }
                     {currentPage === 3 ? <Quality/> : "" }

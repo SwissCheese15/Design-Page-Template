@@ -10,7 +10,7 @@ function Founder() {
                     sketch of what you want – we will help 
                     you to get the result you dreamed of.&#34;
                 </div>
-                <img src="/images/founder-of-company.png" id="founderImg"/>
+                <img src="/images/founder-of-company.png" alt="profile picture founder" id="founderImg"/>
                 <div className="nameAndTitle">
                     <h4>David Oswald</h4>
                     <h5>Founder of company</h5>

@@ -16,7 +16,7 @@ function Offer() {
                 <div className="offers">
                     <div className="borderDiv">
                         <div className="offerPanel" id="panelOne">
-                            <img src="/images/iconbox1.2.png" className="offerImage"/>
+                            <img src="/images/iconbox1.2.png" alt="Design Logo" className="offerImage"/>
                             <h3>Design & Planning</h3>
                             <p>We will help you to get the result you dreamed of.</p>
                             <h5>read more</h5>
@@ -24,7 +24,7 @@ function Offer() {
                     </div>
                     <div className="borderDiv">
                         <div className="offerPanel" id="panelTwo">
-                            <img src="/images/iconbox1.1.png" className="offerImage"/>
+                            <img src="/images/iconbox1.1.png" alt="Solution Logo" className="offerImage"/>
                             <h3>Custom Solutions</h3>
                             <p>Individual, aesthetically stunning solutions for customers.</p>
                             <h5>read more</h5>
@@ -32,7 +32,7 @@ function Offer() {
                     </div>
                     <div className="borderDiv">
                         <div className="offerPanel" id="panelThree">
-                            <img src="/images/iconbox1.3.png" className="offerImage"/>
+                            <img src="/images/iconbox1.3.png" alt="Decor Logo"  className="offerImage"/>
                             <h3>Furniture & Decor</h3>
                             <p>We create and produce our product design lines.</p>
                             <h5>read more</h5>

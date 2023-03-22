@@ -14,7 +14,7 @@ export const PageSlice = createSlice({
 
          // clicking on left nav arrow
         leftArrow: (state) => {
-
+            
             state.currentPage === 1 ? state.currentPage = 3 : state.currentPage -= 1
         }
 }});

@@ -29,7 +29,7 @@ function TeamSlide() {
                                 <h3>+</h3>
                                 <h5>&#91; {d.job_title} &#93;</h5>
                             </div>
-                            <img className="teamImage" src={d.profile_picture}></img>
+                            <img className="teamImage" src={d.profile_picture} alt="profile image worker" />
                         </div>
                     ))}
             </div>

@@ -15,11 +15,11 @@ function Copyright() {
                         <h5>. All Rights Reserved.</h5>
                     </div>
                     <div>
-                        <a>
+                        <a href="https://design-page-template.vercel.app">
                             Terms of use 
                         </a>
                         <h5>&#160;&#160;|&#160;&#160;</h5>
-                        <a>
+                        <a href="https://design-page-template.vercel.app">
                             Privacy Environmental Policy
                         </a>
                     </div>

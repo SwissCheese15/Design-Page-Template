@@ -11,7 +11,7 @@ function BlogSlide() {
                     <div className="titleSubtitleButton">
                     <div className="titleSubtitle">
                         <h4>&#91; Our blog &#93;</h4>
-                        <a>Read Our Latest News</a>
+                        <a href="https://design-page-template.vercel.app">Read Our Latest News</a>
                         <div className="dots"></div>
                     </div>
                         <button id="viewAllButton">
@@ -21,7 +21,7 @@ function BlogSlide() {
                     <div className="blogs">
                             <div className="blogPanel" id="blogPanelOne">
                                 <div className="blogImageDiv">
-                                    <img src="/images/grid1.jpeg" className="blogImage"/>
+                                    <img src="/images/grid1.jpeg" alt="image of nice kitchen" className="blogImage"/>
                                     <h4>INTERIOR</h4>
                                 </div>
                                 <div className="dateDotsAuthor">
@@ -29,12 +29,12 @@ function BlogSlide() {
                                     <h4>..</h4>
                                     <h5>Tom Black</h5>
                                 </div>
-                                <a>Top 10 Tips for Your Kitchen Interior Design</a>
+                                <a href="https://design-page-template.vercel.app">Top 10 Tips for Your Kitchen Interior Design</a>
                                 <p>A faceting effect livens up and...</p>
                             </div>
                             <div className="blogPanel" id="blogPanelTwo">
                                 <div className="blogImageDiv">
-                                    <img src="/images/grid2.jpeg" className="blogImage"/>
+                                    <img src="/images/grid2.jpeg" alt="image of blueprints" className="blogImage"/>
                                     <h4>INTERIOR</h4>
                                 </div>
                                 <div className="dateDotsAuthor">
@@ -42,12 +42,12 @@ function BlogSlide() {
                                     <h4>..</h4>
                                     <h5>Tom Black</h5>
                                 </div>
-                                <a>The Golden Ratio Rules for Best 2D Sketch</a>
+                                <a href="https://design-page-template.vercel.app">The Golden Ratio Rules for Best 2D Sketch</a>
                                 <p>A faceting effect livens up and...</p>
                             </div>
                             <div className="blogPanel" id="blogPanelThree">
                                 <div className="blogImageDiv">
-                                    <img src="/images/grid3.jpeg" className="blogImage"/>
+                                    <img src="/images/grid3.jpeg" alt="image of happy worker" className="blogImage"/>
                                     <h4>INTERIOR</h4>
                                 </div>
                                 <div className="dateDotsAuthor">
@@ -55,7 +55,7 @@ function BlogSlide() {
                                     <h4>..</h4>
                                     <h5>Tom Black</h5>
                                 </div>
-                                <a>Use Pastel Colors & Natural Materials</a>
+                                <a href="https://design-page-template.vercel.app">Use Pastel Colors & Natural Materials</a>
                                 <p>A faceting effect livens up and...</p>
                             </div>
                     </div>

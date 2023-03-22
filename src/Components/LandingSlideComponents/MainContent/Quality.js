@@ -16,7 +16,7 @@ function Quality() {
                 vision and make them a reality.
                 Wanna work with us?
         </div>
-        <a>
+        <a href="https://design-page-template.vercel.app">
             <button id="viewProjectsButton">
                 VIEW PROJECTS
             </button>

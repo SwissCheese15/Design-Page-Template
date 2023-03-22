@@ -176,6 +176,8 @@ span img {
     margin: 1vw 0 1vw 0;
     position: relative;
     transition: 200ms;
+    text-decoration: none;
+    color: white;
 }
 
 .hoverLine {
